@@ -40,3 +40,10 @@ Neste curso foi apresentado as principais ferramentas de mercado para testes em 
 - Como testar funções e módulos de uma aplicação.
 - Entender o que são testes unitários e quem que situação usá-los.
 - Criar funções puras e sua utilidade.
+### Aula 3
+
+- Criar testes de snapshot e entender que situações utilizá-los.
+- Criar testes usando React Testing Library.
+- Simular comportamentos de seus usuários nos testes.
+- Renderizar um componente React.
+- Acessar o componente renderizado.
